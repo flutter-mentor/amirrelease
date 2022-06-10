@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84802125243",
+    "project_id": "medicationtracker-a9ab6",
+    "storage_bucket": "medicationtracker-a9ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84802125243:android:46d1e7b719039d4153589e",
+        "android_client_info": {
+          "package_name": "com.medicationtrakcer.medapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84802125243-sb0u34fa02bahrgm0cpd9te7k8kdn6ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97bjVlHpiGPCTw-1ROJpENvV7755Q4RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84802125243-sb0u34fa02bahrgm0cpd9te7k8kdn6ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

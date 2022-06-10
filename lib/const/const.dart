@@ -1,0 +1,16 @@
+import 'dart:ui';
+
+class AppColors {
+  static const primColor = Color(0xFF0070CD);
+}
+
+bool? chosoedType;
+String? uId;
+String medDesc =
+    """Paracetamol, also known as acetaminophen,[a] is a medication used to treat fever and mild to moderate pain.[11][12] At a standard dose, paracetamol only slightly decreases body temperature;[11][13][14] it is inferior to ibuprofen in that respect,[15] and the benefits of its use for fever are unclear.[11][16][17] Paracetamol may relieve pain in acute mild migraine but only slightly in episodic tension headache.[18][19] However, the aspirin/paracetamol/caffeine combination helps with both conditions where the pain is mild and is recommended as a first-line treatment for them.[20][21] Paracetamol is effective for post-surgical pain, but it is inferior to ibuprofen.[22] The paracetamol/ibuprofen combination provides further increase in potency and is superior to either drug alone.[22][23] The pain relief paracetamol provides in osteoarthritis is small and clinically insignificant.[12][24][25] The evidence in its favor for the use in low back pain, cancer pain, and neuropathic pain is insufficient.[12][26][24][27][28][29]
+
+In the short term, common side effects of paracetamol are nausea and abdominal pain, and it seems to have tolerability similar to ibuprofen.[30][31] Chronic consumption of paracetamol may result in a drop in hemoglobin level, indicating possible gastrointestinal bleeding,[32] and abnormal liver function tests.[33] There is a consistent association of increased mortality as well as cardiovascular (stroke, myocardial infarction), gastrointestinal (ulcers, bleeding) and renal adverse effects with taking higher dose of paracetamol.[32][31][34] The drug may also increase the risk of developing hypertension.[35][36] Elevated frequency of asthma and developmental and reproductive disorders is observed in the offspring of women with prolonged use of paracetamol during pregnancy, although whether paracetamol is the true cause of this increase is unclear.[35] Some studies suggest that there is evidence for the association between paracetamol during pregnancy and autism spectrum disorder and attention deficit hyperactivity disorder, while making clear further research is required to establish any causal link,[37][38] which has prompted some calls to limit its use in pregnancy to the lowest effective dosage for the shortest possible time.[35][39][40]
+
+The recommended maximum daily dose for an adult is three to four grams.[41][42][24] Higher doses may lead to toxicity, including liver failure.[43] Paracetamol poisoning is the foremost cause of acute liver failure in the Western world, and accounts for most drug overdoses in the United States, the United Kingdom, Australia, and New Zealand.[44][45][46]
+
+Paracetamol was first made in 1877 or possibly 1852.[47][48][49] It is the most commonly used medication for pain and fever in both the United States and Europe.[50] It is on the World Health Organization's List of Essential Medicines.[51] Paracetamol is available as a generic medication, with brand names including Tylenol and Panadol among others.[52] In 2019, it was the 145th most commonly prescribed medication in the United States, with more than 4 million prescriptions.[53][54] """;
